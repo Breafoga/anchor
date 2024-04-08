@@ -1,0 +1,1 @@
+barebones console diary thing
